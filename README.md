@@ -1,7 +1,7 @@
-# rEFInd-theme
+# rEFInd-nox
 My theme for the [rEFInd](http://www.rodsbooks.com/refind/) boot manager.
 
-![Screenshot](https://github.com/pixix4/rEFInd-theme/blob/master/screenshot.png?raw=true)
+![Screenshot](https://github.com/pixix4/rEFInd-nox/blob/master/screenshot.png?raw=true)
 
 ### Usage
 
@@ -13,7 +13,7 @@ My theme for the [rEFInd](http://www.rodsbooks.com/refind/) boot manager.
 
  3. Clone this repository into the `themes` directory.
 
- 4. To enable the theme add `include themes/rEFInd-theme/theme.conf` at the end of
+ 4. To enable the theme add `include themes/rEFInd-nox/theme.conf` at the end of
     `refind.conf`.
 
 This theme is inspired from [rEFInd-minimal](https://github.com/EvanPurkhiser/rEFInd-minimal).
